@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Notification Scheduler</string>
+    <string name="job_service">Job Service</string>
+    <string name="job_content_text">Your Job ran to completion</string>
+    <string name="channel_description">Notification From Job Service</string>
+    <string name="notification_channel_name">Job Service Notification</string>
 </resources>
