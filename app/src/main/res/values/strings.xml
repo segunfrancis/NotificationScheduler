@@ -4,4 +4,15 @@
     <string name="job_content_text">Your Job ran to completion</string>
     <string name="channel_description">Notification From Job Service</string>
     <string name="notification_channel_name">Job Service Notification</string>
+    <string name="network_type">Network Type Required:</string>
+    <string name="none">None</string>
+    <string name="any">Any</string>
+    <string name="wifi">WiFi</string>
+    <string name="schedule_job">Schedule Job</string>
+    <string name="cancel_jobs">Cancel Jobs</string>
+    <string name="requires">Requires:</string>
+    <string name="device_idle">Device Idle</string>
+    <string name="device_charging">Device Charging</string>
+    <string name="override_deadline">Override Deadline:</string>
+    <string name="not_set">Not Set</string>
 </resources>
